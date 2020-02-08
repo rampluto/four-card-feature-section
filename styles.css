@@ -1,0 +1,95 @@
+body{
+  width:1440px;
+  margin: 50px;
+}
+.title{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: grey;
+  margin:8px;
+}
+.title1{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  margin:8px;
+  font-weight: 600;
+}
+.title-div{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  margin-left: 20px;
+}
+.div-content{
+  color: #bbbbbb;
+  margin-left: 20px;
+}
+.div-image{
+  float:right;
+  position: relative;
+  right: 50px;
+}
+.content{
+  text-align: center;
+  margin:5px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color:#BBBBBB;
+}
+.team-builder{
+  width:350px;
+  height:250px;
+  background-color: hsl(0, 0%, 98%);
+  position: relative;
+  left: 550px;
+  top: 50px;
+  box-shadow: 1px 1px 6px 6px #F4F4F4;
+}
+.hr-teambuilder{
+  background-color:hsl(0, 78%, 62%);
+  border-color: hsl(0, 78%, 62%);
+  height:5px;
+}
+.supervisor{
+  width:350px;
+  height:250px;
+  background-color: hsl(0, 0%, 98%);
+  position: relative;
+  left: 180px;
+  bottom: 60px;
+  box-shadow: 1px 1px 6px 6px #F4F4F4;
+}
+.hr-supervisor{
+  border-color:  hsl(180, 62%, 55%);
+  background-color:  hsl(180, 62%, 55%);
+  height:5px;
+}
+.calculator{
+  width:350px;
+  height:250px;
+  background-color: hsl(0, 0%, 98%);
+  float: right;
+  position: relative;
+  bottom: 310px;
+  right: 170px;
+  box-shadow: 1px 1px 6px 6px #F4F4F4;
+}
+.hr-calculator{
+  border-color:  hsl(212, 86%, 64%);
+  background-color:  hsl(212, 86%, 64%);
+  height:5px;
+}
+.karma{
+  width:350px;
+  height:250px;
+  background-color: hsl(0, 0%, 98%);
+  position: relative;
+  left:550px;
+  bottom: 200px;
+  box-shadow: 1px 1px 6px 6px #F4F4F4;
+}
+.hr-karma{
+  border-color: hsl(34, 97%, 64%);
+  background-color:  hsl(34, 97%, 64%);
+  height:5px;
+}
